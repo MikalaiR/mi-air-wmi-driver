@@ -90,3 +90,4 @@ MODULE_DEVICE_TABLE(wmi, mi_air_wmi_id_table);
 MODULE_AUTHOR("Mikalai Ramanovich");
 MODULE_DESCRIPTION("Xiaomi Mi Air WMI driver");
 MODULE_LICENSE("GPL v2");
+
